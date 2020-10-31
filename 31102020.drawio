@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-10-31T18:35:17.873Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36" etag="v0TKDAt8diPoxb2jSrJP" version="13.8.8" type="github">
+<mxfile host="app.diagrams.net" modified="2020-10-31T18:53:03.080Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36" etag="8c0c773ac1UAxRqhg9Lr" version="13.8.8" type="github">
   <diagram id="fCOkuTRe_GGLlMdsSD-H" name="Page-1">
     <mxGraphModel dx="1038" dy="580" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -11,7 +11,7 @@
           <mxGeometry y="40" width="160" height="110" as="geometry" />
         </mxCell>
         <mxCell id="d3LIjjaVtFVnTmHK92Z4-8" value="Картотека захворюваності студента" style="swimlane;sketch=0;startSize=23;" parent="1" vertex="1">
-          <mxGeometry x="430" y="150" width="250" height="90" as="geometry" />
+          <mxGeometry x="430" y="110" width="250" height="90" as="geometry" />
         </mxCell>
         <mxCell id="d3LIjjaVtFVnTmHK92Z4-9" value="&lt;div style=&quot;text-align: left&quot;&gt;&lt;span style=&quot;font-family: &amp;#34;times new roman&amp;#34; ; font-size: 16px&quot;&gt;ID_картотеки&lt;/span&gt;&lt;span style=&quot;background-color: transparent ; font-family: &amp;#34;times new roman&amp;#34; ; font-size: 12pt ; text-indent: 35.45pt&quot;&gt;&lt;br&gt;Діагноз&lt;br&gt;Дата відвідування&lt;/span&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="d3LIjjaVtFVnTmHK92Z4-8" vertex="1">
           <mxGeometry y="30" width="140" height="50" as="geometry" />
